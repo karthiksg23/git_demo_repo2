@@ -1,3 +1,5 @@
+
+
 this is the first file in second repo
 
 
@@ -8,6 +10,13 @@ adding second modification
 
  third modification
 
+writing some contents
+so that there'll
+be a conflict while
+merging these files
+manually!!!
+
+
  if()
  {
  statements;;
@@ -16,3 +25,4 @@ adding second modification
  {
  //statements2;;;
  }
+
