@@ -5,3 +5,7 @@ also to be used for local practice
 
 making some modifications so that it can be tracked by Git and later pushed to the remote server
 
+
+inserted few lines to demonstrate git merge and create
+some merge conflicts
+
