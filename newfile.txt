@@ -1,7 +1,15 @@
+
+
+
 this is a new file created for the assignment 3 in edureka git training program
 
 also to be used for local practice
 
 
 making some modifications so that it can be tracked by Git and later pushed to the remote server
+
+making some changes to this file
+so that git merge feature can be understood
+by
+creating a merge conflict
 
