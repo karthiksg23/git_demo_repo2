@@ -1,5 +1,14 @@
 
+
 this is the second file to be pushed into my remote server repo2
 
 made some more changes
+
+
+made some more changes after the initial bug fix
+here
+name 
+place
+etc
+etc
 
