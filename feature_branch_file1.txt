@@ -1,2 +1,9 @@
 this is the first file after creating the feature branch
 
+
+adding another line
+
+to create
+some merge 
+conflicts
+

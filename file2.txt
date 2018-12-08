@@ -1,6 +1,4 @@
 
-
-
 this is the second file to be pushed into my remote server repo2
 
 made some more changes
@@ -15,4 +13,10 @@ etc
 etc
 
 made some bug fixes
+
+
+few more
+lines 
+of changes
+added
 
