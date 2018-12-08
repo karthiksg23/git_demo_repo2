@@ -19,3 +19,10 @@ inserted few lines to demonstrate git merge and create
 some merge conflicts
 
 
+
+inserted some more lines of messages
+to 
+demostrate git stash
+concept
+
+
